@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://osectywa.github.io/sitemap
+Sitemap: https://osectywa.github.io/app/sitemap
+Sitemap: https://osectywa.github.io/assets/sitemap
+Sitemap: https://osectywa.github.io/css/sitemap
+Sitemap: https://osectywa.github.io/includes/sitemap
+Sitemap: https://osectywa.github.io/item/sitemap
+Sitemap: https://osectywa.github.io/src/sitemap
